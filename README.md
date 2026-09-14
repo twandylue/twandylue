@@ -1,19 +1,22 @@
-### Hi there 👋
+# Hi, I'm Andy 👋
 
-![LeetCode Stats](https://vercel.app)
+I'm a Software Engineer interested in distributed systems, cloud infrastructure, and machine learning. I'm specially interested in how to bring software engineering into manufacturing industry.
 
+## 🛠️ Skills
 
-<!--
-**twandylue/twandylue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python
+- .NET
+- Rust
+- Go
+- Docker
+- Kubernetes
+- AWS
+- Azure
 
-Here are some ideas to get you started:
+## 💻 LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark)](https://leetcode.com/twandylue/)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twandylue&show_icons=true&theme=dark)
