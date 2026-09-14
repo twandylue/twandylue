@@ -15,8 +15,4 @@ I'm a Software Engineer interested in distributed systems, cloud infrastructure,
 
 ## 💻 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark)](https://leetcode.com/twandylue/)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twandylue&show_icons=true&theme=dark)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/twandylue?ext=heatmap)](https://leetcode.com/twandylue/)
